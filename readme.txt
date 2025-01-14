@@ -1,1 +1,1 @@
-1. Currently not working in native VSC
+1. Make sure to "pip install SpeechRecognition"
